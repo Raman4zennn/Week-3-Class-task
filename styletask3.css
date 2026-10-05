@@ -1,0 +1,32 @@
+body{
+    background-color: beige;
+    border: 2px dotted burlywood;
+}
+img{
+    width: 300px;
+    height: 350px;
+    
+
+}
+h1{
+    font-size: 39px;
+    font-style: italic;
+    color: darkkhaki;
+    text-align: center;
+}
+
+.Profile{
+    font-size: 20px;
+    color: darkslategray;
+    text-align: justify;
+    font-style: italic;
+    background-color: ghostwhite;
+}
+
+#Skills{
+    border: 1px solid grey;
+    background-color: aliceblue;
+    padding: 20px;
+    width: 250px;
+    
+}
